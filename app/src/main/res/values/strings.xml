@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barnber Shop</string>
+    <string name="bookingString">Booking</string>
+    <string name="historyString">History</string>
+    <string name="homeString">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="facebook_app_id">456759051665482</string>
+    <string name="fb_login_protocol_scheme">fb456759051665482</string>
+    <string name="skip_text">SKIP</string>
+    <string name="remember_me">Remember Me</string>
+</resources>
