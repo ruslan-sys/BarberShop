@@ -10,4 +10,5 @@ public class Common {
     public static final String MIDDLE_NAME = "middle_name";
     public static final String EMAIL = "email";
     public static final String REMEMBER_ME = "remember_me";
+    public static final String ACTAG = "ApplicationContextTag";
 }
